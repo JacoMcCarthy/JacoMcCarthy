@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaco McCarthy</h1>
 <h3 align="center">A passionate Full Stack Developer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/bGgsc5mWoryfgKBx1u">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacomccarthy&label=Profile%20views&color=0e75b6&style=flat" alt="jacomccarthy" /> </p>
 
